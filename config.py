@@ -35,7 +35,7 @@ UPSTREAM_REPO = getenv(
     "https://github.com/koreansmu/billamusic2.0",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
-GIT_TOKEN = "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"  # Fill this variable if your upstream repository is private
+GIT_TOKEN = "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"  # Fill this variable if your upstream repository is private
 
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/STORM_TECHH")
 SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/STORM_CORE")
