@@ -19,7 +19,7 @@ MONGO_DB_URI = "mongodb+srv://fidixi3663:w7rvlxmDd5lsX9ix@cluster0.0k1an50.mongo
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 6000))
 
 # Chat id of a group for logging bot's activities
-LOGGER_ID = -1002402719066
+LOGGER_ID = -1002064111110
 
 # Get this value from @FallenxBot on Telegram by /id
 OWNER_ID = 5960968099
