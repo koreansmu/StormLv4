@@ -21,6 +21,7 @@ speedtest-cli
 spotipy
 tgcrypto
 unidecode
+uvloop
 yt-dlp
 youtube-search
 youtube-search-python==1.6.0
